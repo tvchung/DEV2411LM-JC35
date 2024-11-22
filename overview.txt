@@ -1,0 +1,33 @@
+* Giới thiệu module: Javacore (8-10b)
+1. Tài liệu: driver
+2. Nội dung:
+	2.1: slide (Nên đọc trước mỗi buổi)
+	2.2: Laguides: Thực hành
+		- Thực hành các bài có hướng dẫn, tự thực hành 
+		- Upload mã nguồn trên githup 
+		- Nộp trên classroom: bằng link githup
+	2.3: Books
+	===========================
+	*) Ngôn ngữ lập trình (Java) (2b)
+		- cú pháp
+		- kiểu dữ liệu, biến, hằng, toán tử, toán hạng, biểu thức,
+			câu lênh, khối lệnh,...
+		- I/O
+		- Cấu trúc điều khiển: (3 loại cấu trúc) 
+			+: Lựa chọn/rẽ nhánh (if; switch)
+			+: Loop (for, do...while, while, foreach,...)
+			+: Lệnh nhảy: continue, break, return,...
+		- Mảng / String
+		
+	*) Ngôn ngữ lập trình hướng đối tượng (OOP) (3-4b)
+		- Inheristance: kế thừa
+		- Abstraction: trừu tượng 
+		- Polymorphism: Đa hình hóa 
+		- Enscapsolation: Đóng gói
+	*) utility:  (3b)
+		- Collections
+		- Exception
+		- Thread
+		- File
+		
+		
