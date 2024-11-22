@@ -3,8 +3,8 @@ Lập trình java core
 #Giới thiệu module: Javacore (8-10b)
 ## 1. Tài liệu: driver
 ## 2. Nội dung:
-*** 2.1: slide (Nên đọc trước mỗi buổi)***
-*** 2.2: Laguides: Thực hành***
+***2.1: slide (Nên đọc trước mỗi buổi)***
+***2.2: Laguides: Thực hành***
 	- Thực hành các bài có hướng dẫn, tự thực hành 
 	- Upload mã nguồn trên githup 
 	- Nộp trên classroom: bằng link githup
