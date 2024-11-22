@@ -8,9 +8,9 @@ Lập trình java core
 	- Thực hành các bài có hướng dẫn, tự thực hành 
 	- Upload mã nguồn trên githup 
 	- Nộp trên classroom: bằng link githup
-***2.3: Books***
+### ***2.3: Books***
 	===========================
-	*) Ngôn ngữ lập trình (Java) (2b)
+	* *) Ngôn ngữ lập trình (Java) (2b) *
 		- cú pháp
 		- kiểu dữ liệu, biến, hằng, toán tử, toán hạng, biểu thức,
 			câu lênh, khối lệnh,...
@@ -21,12 +21,12 @@ Lập trình java core
 			+: Lệnh nhảy: continue, break, return,...
 		- Mảng / String
 		
-	*) Ngôn ngữ lập trình hướng đối tượng (OOP) (3-4b)
+	* *) Ngôn ngữ lập trình hướng đối tượng (OOP) (3-4b) *
 		- Inheristance: kế thừa
 		- Abstraction: trừu tượng 
 		- Polymorphism: Đa hình hóa 
 		- Enscapsolation: Đóng gói
-	*) utility:  (3b)
+	 *) utility:  (3b) *
 		- Collections
 		- Exception
 		- Thread
