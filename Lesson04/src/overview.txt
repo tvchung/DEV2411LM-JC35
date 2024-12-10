@@ -1,0 +1,35 @@
+
+
+Class and object
+----
+class ClassName {
+
+    //1. field, attribute (properties)
+            - field
+            - attribute
+    //2. behavior / method
+        - constructor: không tham số / có tham số (phương thức đặc biệt lớp)
+        - normal method
+
+}
+
+Object:
+    ClassName object = new ClassName();
+
+Truy cập đến các thành phần của đối tượng
+-- field:
+---- gán giá trị
+    object.fieldName = value;
+---- Lấy giá trị
+    variable = object.fieldName;
+
+-- attribute:
+    -- gán:
+        object.setField(value);
+    -- lấy giá trị:
+        variableName = object.getField();
+
+-- Method:
+    -- Phương thức kiểu void: object.methodName(args)
+    -- Phương thức trả về giá trị:
+        variableName = object.methodName(args);
