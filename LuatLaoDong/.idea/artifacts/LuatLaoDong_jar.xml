@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="LuatLaoDong:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LuatLaoDong_jar</output-path>
+    <root id="archive" name="LuatLaoDong.jar">
+      <element id="module-output" name="LuatLaoDong" />
+    </root>
+  </artifact>
+</component>
